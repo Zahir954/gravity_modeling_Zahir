@@ -1,3 +1,7 @@
 plotly
 numpy
+<<<<<<< Updated upstream
 streamlit
+=======
+streamlit
+>>>>>>> Stashed changes
